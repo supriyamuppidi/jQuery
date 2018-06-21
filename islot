@@ -1,0 +1,48 @@
+<div class="jumbotron text-center">
+<div>
+  <h1>iSlot</h1> 
+  <p>A place to schedule interviews</p>
+  <p>iSlot is an app to schedule interviews and for the easy access of interviews and time slots. </p> 
+</div>
+<div class="btn-toolbar">
+<Button bsStyle="primary"  class="btn btn-primary btn-lg">login</Button>
+<Button bsStyle="primary" class="btn btn-primary btn-lg" >Admin Registration</Button>
+<Button bsStyle="primary" class="btn btn-primary btn-lg">Interviewer Registration</Button>
+
+</div>
+</div>
+
+
+
+.jumbotron {
+background-color: #f4511e;
+    color: #fff;
+    padding: 100px 25px;
+    margin-top: 60px;
+}
+.btn-toolbar{
+    margin-left: 400px !important;
+    padding:30px;
+}
+
+
+
+
+container for events
+<div class="container-fluid">
+    <div class="row">
+       <div class="column">
+       <div class="col-lg-6">
+           container down
+       </div>
+        <div class="col-lg-6">
+            Container Left
+        </div>
+       <div>
+        <div class="col-lg-6">
+            Container Right
+        </div>
+    </div>
+</div>
+
+
